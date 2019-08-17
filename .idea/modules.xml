@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JPA/JPA.iml" filepath="$PROJECT_DIR$/JPA/JPA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springdata_one2many/springdata_one2many.iml" filepath="$PROJECT_DIR$/springdata_one2many/springdata_one2many.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springdatajpa_day02/springdatajpa_day02.iml" filepath="$PROJECT_DIR$/springdatajpa_day02/springdatajpa_day02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springdatajpa_day03_many2many/springdatajpa_day03_many2many.iml" filepath="$PROJECT_DIR$/springdatajpa_day03_many2many/springdatajpa_day03_many2many.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springddatajpa_day03_speci/springddatajpa_day03_speci.iml" filepath="$PROJECT_DIR$/springddatajpa_day03_speci/springddatajpa_day03_speci.iml" />
+    </modules>
+  </component>
+</project>

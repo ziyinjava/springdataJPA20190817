@@ -1,0 +1,1520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3216f682-2db9-4016-a9b3-8bc7b7b346ed" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/JPA/target/" />
+    <ignored path="$PROJECT_DIR$/springdatajpa_day02/target/" />
+    <ignored path="$PROJECT_DIR$/springddatajpa_day03_speci/target/" />
+    <ignored path="$PROJECT_DIR$/jpa-day3-onetomany/target/" />
+    <ignored path="$PROJECT_DIR$/jpa-day3-manytomany/target/" />
+    <ignored path="$PROJECT_DIR$/springdata_one2many/target/" />
+    <ignored path="$PROJECT_DIR$/springdatajpa_day03_many2many/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/SpringDataJPA$SpecTest_testSpec4.ic" NAME="SpecTest.testSpec4 Coverage Results" MODIFIED="1565327366503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="15" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springdata_one2many/src/main/java/com/ziyin/bo/Customer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1007">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springdata_one2many/src/main/java/com/ziyin/bo/LinkMan.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="54" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springdata_one2many/src/test/java/ObjectQueryTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="57" column="20" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://F:/software/devtool/jdk8/src.zip!/java/lang/System.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="58" column="19" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/2.0.5.RELEASE/spring-data-jpa-2.0.5.RELEASE.jar!/org/springframework/data/jpa/repository/JpaRepository.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/2.0.5.RELEASE/spring-data-jpa-2.0.5.RELEASE.jar!/org/springframework/data/jpa/repository/support/SimpleJpaRepository.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-391">
+              <caret line="160" column="13" selection-start-line="160" selection-start-column="13" selection-end-line="160" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springdata_one2many/src/test/java/One2ManyTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="112" column="36" selection-start-line="112" selection-start-column="36" selection-end-line="112" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springdata_one2many/src/main/resources/applicationContext.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="56" column="20" selection-start-line="56" selection-start-column="20" selection-end-line="56" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>property</find>
+      <find>Bean</find>
+      <find>jpaProperties</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/JPA/pom.xml" />
+        <option value="$PROJECT_DIR$/springdatajpa_day02/src/main/resources/applicationContext.properties" />
+        <option value="$PROJECT_DIR$/springdatajpa_day02/src/main/java/com/ziyin/bo/Customer.java" />
+        <option value="$PROJECT_DIR$/springdatajpa_day02/pom.xml" />
+        <option value="$PROJECT_DIR$/springdatajpa_day02/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/springdatajpa_day02/src/test/java/com/ziyin/jpa/JpqlTest.java" />
+        <option value="$PROJECT_DIR$/springdatajpa_day02/src/main/java/com/ziyin/dao/CustomerDao.java" />
+        <option value="$PROJECT_DIR$/springdatajpa_day02/src/test/java/com/ziyin/jpa/CustomerDaoTest.java" />
+        <option value="$PROJECT_DIR$/springddatajpa_day03_speci/pom.xml" />
+        <option value="$PROJECT_DIR$/springddatajpa_day03_speci/src/main/java/com/ziyin/bo/Customer.java" />
+        <option value="$PROJECT_DIR$/springddatajpa_day03_speci/src/main/java/com/ziyin/dao/CustomerDao.java" />
+        <option value="$PROJECT_DIR$/springddatajpa_day03_speci/src/test/java/SpecTest.java" />
+        <option value="$PROJECT_DIR$/springdata_one2many/pom.xml" />
+        <option value="$PROJECT_DIR$/springdata_one2many/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/springdata_one2many/src/main/java/com/ziyin/dao/LinkManDao(1).java" />
+        <option value="$PROJECT_DIR$/springdata_one2many/src/main/java/com/ziyin/dao/CustomerDao.java" />
+        <option value="$PROJECT_DIR$/springdata_one2many/src/test/java/OneToManyTest.java" />
+        <option value="$PROJECT_DIR$/springdata_one2many/src/test/java/One2ManyTest.java" />
+        <option value="$PROJECT_DIR$/springdatajpa_day03_many2many/pom.xml" />
+        <option value="$PROJECT_DIR$/springdatajpa_day03_many2many/src/main/java/com/ziyin/dao/RoleDao.java" />
+        <option value="$PROJECT_DIR$/springdatajpa_day03_many2many/src/main/java/com/ziyin/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/springdatajpa_day03_many2many/src/main/java/com/ziyin/bo/User.java" />
+        <option value="$PROJECT_DIR$/springdatajpa_day03_many2many/src/main/java/com/ziyin/bo/Role.java" />
+        <option value="$PROJECT_DIR$/springdatajpa_day03_many2many/src/test/java/Many2ManyTest.java" />
+        <option value="$PROJECT_DIR$/springdata_one2many/src/main/java/com/ziyin/bo/LinkMan.java" />
+        <option value="$PROJECT_DIR$/springdata_one2many/src/test/java/ObjectQueryTest.java" />
+        <option value="$PROJECT_DIR$/springdata_one2many/src/main/java/com/ziyin/bo/Customer.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\software\devtool\maven\repository" />
+        <option name="mavenHome" value="F:/software/devtool/maven/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="F:\software\devtool\maven\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springdatajpa_day02" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springdatajpa_day02" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springdatajpa_day02" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SpringDataJPA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springdata_one2many" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringDataJPA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springdata_one2many" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringDataJPA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springdata_one2many" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringDataJPA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springdata_one2many" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringDataJPA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springdata_one2many" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ziyin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringDataJPA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springdata_one2many" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ziyin" type="462c0819:PsiDirectoryNode" />
+              <item name="bo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringDataJPA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springdata_one2many" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ziyin" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringDataJPA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springdata_one2many" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringDataJPA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springdata_one2many" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringDataJPA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springdata_one2many" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565367848698" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jpa-day3-manytomany/pom.xml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.16060606" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\workspace\SpringDataJPA\springdatajpa_day03_many2many\src\main\java\com\ziyin\dao" />
+      <recent name="H:\workspace\SpringDataJPA\springdatajpa_day03_many2many\src\main\java\com\ziyin\bo" />
+      <recent name="H:\workspace\SpringDataJPA\springdatajpa_day03_many2many\src\main\resources" />
+      <recent name="H:\workspace\SpringDataJPA\springdata_one2many\src\test\java" />
+      <recent name="H:\workspace\SpringDataJPA\springdata_one2many\src\main\java\com\ziyin\dao" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ObjectQueryTest.testQuery2">
+    <configuration name="Many2ManyTest.testCasCadeAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springdatajpa_day03_many2many" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Many2ManyTest" />
+      <option name="METHOD_NAME" value="testCasCadeAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Many2ManyTest.testCasCadeRemove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springdatajpa_day03_many2many" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Many2ManyTest" />
+      <option name="METHOD_NAME" value="testCasCadeRemove" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectQueryTest.testQuery1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springdata_one2many" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ObjectQueryTest" />
+      <option name="METHOD_NAME" value="testQuery1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectQueryTest.testQuery2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springdata_one2many" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ObjectQueryTest" />
+      <option name="METHOD_NAME" value="testQuery2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectQueryTest.testQuery3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springdata_one2many" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ObjectQueryTest" />
+      <option name="METHOD_NAME" value="testQuery3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ObjectQueryTest.testQuery2" />
+        <item itemvalue="JUnit.ObjectQueryTest.testQuery3" />
+        <item itemvalue="JUnit.ObjectQueryTest.testQuery1" />
+        <item itemvalue="JUnit.Many2ManyTest.testCasCadeRemove" />
+        <item itemvalue="JUnit.Many2ManyTest.testCasCadeAdd" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringGeneralSettings">
+    <option name="allowAutoConfigurationMode" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3216f682-2db9-4016-a9b3-8bc7b7b346ed" name="Default Changelist" comment="" />
+      <created>1565243779387</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565243779387</updated>
+      <workItem from="1565243781715" duration="1470000" />
+      <workItem from="1565246111303" duration="7301000" />
+      <workItem from="1565274949784" duration="1926000" />
+      <workItem from="1565309304770" duration="7955000" />
+      <workItem from="1565325234921" duration="2867000" />
+      <workItem from="1565329516502" duration="12575000" />
+      <workItem from="1565349926910" duration="4442000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ObjectQueryTest_testQuery2 - 2019.08.09 at 18h 40m 04s.xml">
+      <configuration name="ObjectQueryTest.testQuery2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ObjectQueryTest_testQuery2 - 2019.08.09 at 18h 40m 21s.xml">
+      <configuration name="ObjectQueryTest.testQuery2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ObjectQueryTest_testQuery2 - 2019.08.09 at 18h 53m 08s.xml">
+      <configuration name="ObjectQueryTest.testQuery2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ObjectQueryTest_testQuery3 - 2019.08.09 at 19h 45m 35s.xml">
+      <configuration name="ObjectQueryTest.testQuery3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ObjectQueryTest_testQuery3 - 2019.08.09 at 19h 46m 11s.xml">
+      <configuration name="ObjectQueryTest.testQuery3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ObjectQueryTest_testQuery3 - 2019.08.09 at 19h 57m 51s.xml">
+      <configuration name="ObjectQueryTest.testQuery3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ObjectQueryTest_testQuery3 - 2019.08.09 at 20h 00m 51s.xml">
+      <configuration name="ObjectQueryTest.testQuery3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ObjectQueryTest_testQuery3 - 2019.08.09 at 20h 06m 49s.xml">
+      <configuration name="ObjectQueryTest.testQuery3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ObjectQueryTest_testQuery3 - 2019.08.09 at 20h 07m 50s.xml">
+      <configuration name="ObjectQueryTest.testQuery3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ObjectQueryTest_testQuery2 - 2019.08.09 at 20h 11m 54s.xml">
+      <configuration name="ObjectQueryTest.testQuery2" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="38536000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.78038067" visible="true" weight="0.21983914" />
+      <window_info id="Structure" order="1" sideWeight="0.21961933" side_tool="true" visible="true" weight="0.21983914" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.477306" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.38360175" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.329429" />
+      <window_info anchor="bottom" id="Problems" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Spring" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" sideWeight="0.49926794" visible="true" weight="0.022788204" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.3297587" />
+      <window_info anchor="right" id="Coverage" order="10" sideWeight="0.50073206" side_tool="true" visible="true" weight="0.022788204" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springdatajpa_day02/src/test/java/com/ziyin/jpa/JpqlTest.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springddatajpa_day03_speci/src/test/java/SpecTest.java</url>
+          <line>115</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springdata_one2many/src/test/java/ObjectQueryTest.java</url>
+          <line>74</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springdata_one2many/src/test/java/ObjectQueryTest.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>AopUtils.isEqualsMethod(method)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/JPA/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="51" column="22" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JPA/src/test/java/com/ziyin/jpa/test/JpaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="28" column="23" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-orm/4.2.4.RELEASE/spring-orm-4.2.4.RELEASE.jar!/org/springframework/orm/jpa/vendor/AbstractJpaVendorAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+          <folding>
+            <element signature="e#949#950#0" expanded="true" />
+            <element signature="e#1005#1006#0" expanded="true" />
+            <element signature="e#1323#1324#0" expanded="true" />
+            <element signature="e#1361#1362#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.ziyin:springdatajpa_day02:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.ziyin:springdatajpa_day02:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="1353.005472883599" y="490.0">com.ziyin:springdatajpa_day02:1.0-SNAPSHOT</node>
+            <node x="763.75" y="330.0">junit:junit:jar:4.9</node>
+            <node x="734.25" y="180.0">junit:junit:jar:4.9/org.hamcrest:hamcrest-core:jar:1.1</node>
+            <node x="627.6257192460344" y="330.0">org.aspectj:aspectjweaver:jar:1.6.8</node>
+            <node x="2049.8036044973546" y="330.0">org.springframework:spring-aop:jar:4.2.4.RELEASE</node>
+            <node x="1983.071428571429" y="180.0">org.springframework:spring-aop:jar:4.2.4.RELEASE/aopalliance:aopalliance:jar:1.0</node>
+            <node x="1081.63914517196" y="330.0">org.springframework:spring-context:jar:4.2.4.RELEASE</node>
+            <node x="0.0" y="330.0">org.springframework:spring-context-support:jar:4.2.4.RELEASE</node>
+            <node x="2314.536722883599" y="330.0">org.springframework:spring-orm:jar:4.2.4.RELEASE</node>
+            <node x="2217.0714285714284" y="180.0">org.springframework:spring-orm:jar:4.2.4.RELEASE/org.springframework:spring-jdbc:jar:4.2.4.RELEASE</node>
+            <node x="2352.786722883599" y="180.0">org.springframework:spring-orm:jar:4.2.4.RELEASE/org.springframework:spring-tx:jar:4.2.4.RELEASE</node>
+            <node x="3140.561722883599" y="330.0">org.springframework:spring-beans:jar:4.2.4.RELEASE</node>
+            <node x="3476.7036044973547" y="330.0">org.springframework:spring-core:jar:4.2.4.RELEASE</node>
+            <node x="3456.7036044973547" y="180.0">org.springframework:spring-core:jar:4.2.4.RELEASE/commons-logging:commons-logging:jar:1.2</node>
+            <node x="1306.508928571429" y="180.0">org.hibernate:hibernate-core:jar:5.0.7.Final</node>
+            <node x="1745.89260085979" y="0.0">org.hibernate:hibernate-core:jar:5.0.7.Final/org.jboss.logging:jboss-logging:jar:3.3.0.Final</node>
+            <node x="1112.071428571429" y="80.0">org.hibernate:hibernate-core:jar:5.0.7.Final/org.hibernate.javax.persistence:hibernate-jpa-2.1-api:jar:1.0.0.Final</node>
+            <node x="1456.071428571429" y="80.0">org.hibernate:hibernate-core:jar:5.0.7.Final/org.javassist:javassist:jar:3.18.1-GA</node>
+            <node x="1287.071428571429" y="80.0">org.hibernate:hibernate-core:jar:5.0.7.Final/antlr:antlr:jar:2.7.7</node>
+            <node x="1555.071428571429" y="80.0">org.hibernate:hibernate-core:jar:5.0.7.Final/org.apache.geronimo.specs:geronimo-jta_1.1_spec:jar:1.1.1</node>
+            <node x="1366.071428571429" y="80.0">org.hibernate:hibernate-core:jar:5.0.7.Final/org.jboss:jandex:jar:2.0.0.Final</node>
+            <node x="1023.0714285714288" y="80.0">org.hibernate:hibernate-core:jar:5.0.7.Final/dom4j:dom4j:jar:1.6.1</node>
+            <node x="1017.5714285714288" y="0.0">org.hibernate:hibernate-core:jar:5.0.7.Final/dom4j:dom4j:jar:1.6.1/xml-apis:xml-apis:jar:1.0.b2</node>
+            <node x="1739.071428571429" y="80.0">org.hibernate:hibernate-core:jar:5.0.7.Final/org.hibernate.common:hibernate-commons-annotations:jar:5.0.1.Final</node>
+            <node x="1431.536722883599" y="330.0">org.hibernate:hibernate-entitymanager:jar:5.0.7.Final</node>
+            <node x="463.62571924603435" y="330.0">org.hibernate:hibernate-validator:jar:5.2.1.Final</node>
+            <node x="362.5" y="180.0">org.hibernate:hibernate-validator:jar:5.2.1.Final/javax.validation:validation-api:jar:1.1.0.Final</node>
+            <node x="602.25" y="180.0">org.hibernate:hibernate-validator:jar:5.2.1.Final/org.jboss.logging:jboss-logging:jar:3.2.1.Final</node>
+            <node x="493.5" y="180.0">org.hibernate:hibernate-validator:jar:5.2.1.Final/com.fasterxml:classmate:jar:1.1.0</node>
+            <node x="2627.324222883599" y="330.0">c3p0:c3p0:jar:0.9.1.2</node>
+            <node x="2546.324222883599" y="330.0">log4j:log4j:jar:1.2.12</node>
+            <node x="265.5" y="180.0">org.slf4j:slf4j-api:jar:1.6.6</node>
+            <node x="189.0" y="330.0">org.slf4j:slf4j-log4j12:jar:1.6.6</node>
+            <node x="184.5" y="180.0">org.slf4j:slf4j-log4j12:jar:1.6.6/log4j:log4j:jar:1.2.17</node>
+            <node x="2962.561722883599" y="330.0">mysql:mysql-connector-java:jar:5.1.6</node>
+            <node x="2773.036722883599" y="330.0">org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE</node>
+            <node x="2955.286722883599" y="180.0">org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE/org.springframework.data:spring-data-commons:jar:1.11.0.RELEASE</node>
+            <node x="2755.4382192460344" y="80.0">org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE/org.springframework.data:spring-data-commons:jar:1.11.0.RELEASE/org.springframework:spring-core:jar:4.1.7.RELEASE</node>
+            <node x="2925.536722883599" y="80.0">org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE/org.springframework.data:spring-data-commons:jar:1.11.0.RELEASE/org.springframework:spring-beans:jar:4.1.7.RELEASE</node>
+            <node x="3053.536722883599" y="80.0">org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE/org.springframework.data:spring-data-commons:jar:1.11.0.RELEASE/org.slf4j:slf4j-api:jar:1.7.12</node>
+            <node x="3233.286722883599" y="180.0">org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE/org.springframework:spring-orm:jar:4.1.7.RELEASE</node>
+            <node x="2714.286722883599" y="180.0">org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE/org.springframework:spring-context:jar:4.1.7.RELEASE</node>
+            <node x="2494.286722883599" y="180.0">org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE/org.springframework:spring-aop:jar:4.1.7.RELEASE</node>
+            <node x="2610.286722883599" y="180.0">org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE/org.springframework:spring-tx:jar:4.1.7.RELEASE</node>
+            <node x="2403.29539517196" y="80.0">org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE/org.springframework:spring-beans:jar:4.2.4.RELEASE</node>
+            <node x="2213.1257192460344" y="80.0">org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE/org.springframework:spring-core:jar:4.2.4.RELEASE</node>
+            <node x="2852.286722883599" y="180.0">org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE/org.aspectj:aspectjrt:jar:1.8.6</node>
+            <node x="3136.286722883599" y="180.0">org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE/org.slf4j:slf4j-api:jar:1.6.6</node>
+            <node x="3263.536722883599" y="80.0">org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.12</node>
+            <node x="3276.536722883599" y="0.0">org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.12/org.slf4j:slf4j-api:jar:1.6.6</node>
+            <node x="2101.0714285714284" y="180.0">org.springframework:spring-test:jar:4.2.4.RELEASE</node>
+            <node x="870.2500000000001" y="180.0">javax.el:javax.el-api:jar:2.2.4</node>
+            <node x="857.5" y="330.0">org.glassfish.web:javax.el:jar:2.2.4</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.springframework:spring-orm:jar:4.2.4.RELEASE/org.springframework:spring-tx:jar:4.2.4.RELEASE" target="org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE/org.springframework:spring-core:jar:4.2.4.RELEASE">
+              <point x="-21.0" y="-15.0" />
+              <point x="2373.786722883599" y="140.0" />
+              <point x="2303.1257192460344" y="140.0" />
+              <point x="40.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE" target="org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE/org.springframework:spring-core:jar:4.2.4.RELEASE">
+              <point x="-54.450000000000045" y="-15.0" />
+              <point x="2779.0867228835987" y="270.0" />
+              <point x="2342.286722883599" y="270.0" />
+              <point x="2342.286722883599" y="150.0" />
+              <point x="2283.1257192460344" y="150.0" />
+              <point x="20.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE" target="org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE/org.slf4j:slf4j-api:jar:1.6.6">
+              <point x="30.25" y="-15.0" />
+              <point x="2863.786722883599" y="290.0" />
+              <point x="3174.786722883599" y="290.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:5.0.7.Final" target="org.hibernate:hibernate-core:jar:5.0.7.Final/org.apache.geronimo.specs:geronimo-jta_1.1_spec:jar:1.1.1">
+              <point x="37.1875" y="-15.0" />
+              <point x="1403.196428571429" y="150.0" />
+              <point x="1596.071428571429" y="150.0" />
+              <point x="-41.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE" target="org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE/org.springframework:spring-tx:jar:4.1.7.RELEASE">
+              <point x="-18.149999999999864" y="-15.0" />
+              <point x="2815.386722883599" y="240.0" />
+              <point x="2652.286722883599" y="240.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:5.0.7.Final" target="org.hibernate:hibernate-core:jar:5.0.7.Final/antlr:antlr:jar:2.7.7">
+              <point x="-22.3125" y="-15.0" />
+              <point x="1343.696428571429" y="140.0" />
+              <point x="1316.071428571429" y="140.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-entitymanager:jar:5.0.7.Final" target="org.hibernate:hibernate-core:jar:5.0.7.Final/org.hibernate.common:hibernate-commons-annotations:jar:5.0.1.Final">
+              <point x="50.57142857142844" y="-15.0" />
+              <point x="1570.6081514550274" y="300.0" />
+              <point x="1906.321428571429" y="300.0" />
+              <point x="55.75" y="15.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.12" target="org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.12/org.slf4j:slf4j-api:jar:1.6.6">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE" target="org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE/org.springframework:spring-orm:jar:4.1.7.RELEASE">
+              <point x="42.34999999999991" y="-15.0" />
+              <point x="2875.886722883599" y="300.0" />
+              <point x="3281.786722883599" y="300.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.ziyin:springdatajpa_day02:1.0-SNAPSHOT" target="org.slf4j:slf4j-api:jar:1.6.6">
+              <point x="-57.0" y="-15.0" />
+              <point x="1372.005472883599" y="450.0" />
+              <point x="323.25" y="450.0" />
+              <point x="19.25" y="15.0" />
+            </edge>
+            <edge source="junit:junit:jar:4.9" target="junit:junit:jar:4.9/org.hamcrest:hamcrest-core:jar:1.1">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:5.0.7.Final" target="org.hibernate:hibernate-core:jar:5.0.7.Final/org.hibernate.javax.persistence:hibernate-jpa-2.1-api:jar:1.0.0.Final">
+              <point x="-37.1875" y="-15.0" />
+              <point x="1328.821428571429" y="150.0" />
+              <point x="1228.321428571429" y="150.0" />
+              <point x="38.75" y="15.0" />
+            </edge>
+            <edge source="com.ziyin:springdatajpa_day02:1.0-SNAPSHOT" target="org.hibernate:hibernate-core:jar:5.0.7.Final">
+              <point x="-3.7999999999999545" y="-15.0" />
+              <point x="1425.2054728835988" y="380.0" />
+              <point x="1299.1882192460344" y="380.0" />
+              <point x="1299.1882192460344" y="310.0" />
+              <point x="1336.258928571429" y="310.0" />
+              <point x="-29.75" y="15.0" />
+            </edge>
+            <edge source="com.ziyin:springdatajpa_day02:1.0-SNAPSHOT" target="org.aspectj:aspectjweaver:jar:1.6.8">
+              <point x="-41.799999999999955" y="-15.0" />
+              <point x="1387.2054728835988" y="430.0" />
+              <point x="685.1257192460344" y="430.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:5.0.7.Final" target="org.hibernate:hibernate-core:jar:5.0.7.Final/org.jboss.logging:jboss-logging:jar:3.3.0.Final">
+              <point x="-7.4375" y="-15.0" />
+              <point x="1358.571428571429" y="160.0" />
+              <point x="1355.571428571429" y="160.0" />
+              <point x="1355.571428571429" y="60.0" />
+              <point x="1764.5592675264566" y="60.0" />
+              <point x="-37.333333333333485" y="15.0" />
+            </edge>
+            <edge source="com.ziyin:springdatajpa_day02:1.0-SNAPSHOT" target="org.springframework:spring-orm:jar:4.2.4.RELEASE">
+              <point x="26.59999999999991" y="-15.0" />
+              <point x="1455.6054728835988" y="410.0" />
+              <point x="2363.036722883599" y="410.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-orm:jar:4.2.4.RELEASE/org.springframework:spring-tx:jar:4.2.4.RELEASE" target="org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE/org.springframework:spring-beans:jar:4.2.4.RELEASE">
+              <point x="21.0" y="-15.0" />
+              <point x="2415.786722883599" y="160.0" />
+              <point x="2416.79539517196" y="160.0" />
+              <point x="-40.5" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-core:jar:4.2.4.RELEASE" target="org.springframework:spring-core:jar:4.2.4.RELEASE/commons-logging:commons-logging:jar:1.2">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:5.0.7.Final" target="org.hibernate:hibernate-core:jar:5.0.7.Final/org.hibernate.common:hibernate-commons-annotations:jar:5.0.1.Final">
+              <point x="52.0625" y="-15.0" />
+              <point x="1418.071428571429" y="160.0" />
+              <point x="1794.821428571429" y="160.0" />
+              <point x="-55.75" y="15.0" />
+            </edge>
+            <edge source="com.ziyin:springdatajpa_day02:1.0-SNAPSHOT" target="javax.el:javax.el-api:jar:2.2.4">
+              <point x="-19.0" y="-15.0" />
+              <point x="1410.005472883599" y="400.0" />
+              <point x="942.0000000000001" y="400.0" />
+              <point x="24.0" y="15.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:5.0.7.Final" target="org.hibernate:hibernate-core:jar:5.0.7.Final/org.javassist:javassist:jar:3.18.1-GA">
+              <point x="22.3125" y="-15.0" />
+              <point x="1388.321428571429" y="140.0" />
+              <point x="1475.821428571429" y="140.0" />
+              <point x="-19.75" y="15.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-entitymanager:jar:5.0.7.Final" target="org.hibernate:hibernate-core:jar:5.0.7.Final/org.jboss.logging:jboss-logging:jar:3.3.0.Final">
+              <point x="75.85714285714266" y="-15.0" />
+              <point x="1595.8938657407416" y="310.0" />
+              <point x="1972.571428571429" y="310.0" />
+              <point x="1972.571428571429" y="50.0" />
+              <point x="1839.2259341931235" y="50.0" />
+              <point x="37.333333333333485" y="15.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-validator:jar:5.2.1.Final" target="org.hibernate:hibernate-validator:jar:5.2.1.Final/com.fasterxml:classmate:jar:1.1.0">
+              <point x="0.0" y="-15.0" />
+              <point x="535.6257192460344" y="310.0" />
+              <point x="537.5" y="310.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.ziyin:springdatajpa_day02:1.0-SNAPSHOT" target="mysql:mysql-connector-java:jar:5.1.6">
+              <point x="57.0" y="-15.0" />
+              <point x="1486.005472883599" y="450.0" />
+              <point x="3041.561722883599" y="450.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-entitymanager:jar:5.0.7.Final" target="org.hibernate:hibernate-core:jar:5.0.7.Final/dom4j:dom4j:jar:1.6.1">
+              <point x="-75.85714285714266" y="-15.0" />
+              <point x="1444.1795800264563" y="300.0" />
+              <point x="1040.321428571429" y="300.0" />
+              <point x="-17.25" y="15.0" />
+            </edge>
+            <edge source="com.ziyin:springdatajpa_day02:1.0-SNAPSHOT" target="c3p0:c3p0:jar:0.9.1.2">
+              <point x="41.799999999999955" y="-15.0" />
+              <point x="1470.8054728835987" y="430.0" />
+              <point x="2657.324222883599" y="430.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE/org.springframework.data:spring-data-commons:jar:1.11.0.RELEASE" target="org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.12">
+              <point x="60.375" y="-15.0" />
+              <point x="3096.161722883599" y="160.0" />
+              <point x="3289.286722883599" y="160.0" />
+              <point x="-25.75" y="15.0" />
+            </edge>
+            <edge source="com.ziyin:springdatajpa_day02:1.0-SNAPSHOT" target="junit:junit:jar:4.9">
+              <point x="-34.200000000000045" y="-15.0" />
+              <point x="1394.8054728835987" y="420.0" />
+              <point x="792.25" y="420.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-orm:jar:4.2.4.RELEASE" target="org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE/org.springframework:spring-core:jar:4.2.4.RELEASE">
+              <point x="-12.125" y="-15.0" />
+              <point x="2350.911722883599" y="280.0" />
+              <point x="2326.5714285714284" y="280.0" />
+              <point x="2326.5714285714284" y="160.0" />
+              <point x="2263.1257192460344" y="160.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE" target="org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE/org.springframework:spring-context:jar:4.1.7.RELEASE">
+              <point x="-6.0499999999999545" y="-15.0" />
+              <point x="2827.486722883599" y="230.0" />
+              <point x="2773.286722883599" y="230.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.ziyin:springdatajpa_day02:1.0-SNAPSHOT" target="org.glassfish.web:javax.el:jar:2.2.4">
+              <point x="-26.59999999999991" y="-15.0" />
+              <point x="1402.405472883599" y="410.0" />
+              <point x="894.5" y="410.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE/org.springframework.data:spring-data-commons:jar:1.11.0.RELEASE" target="org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE/org.springframework.data:spring-data-commons:jar:1.11.0.RELEASE/org.slf4j:slf4j-api:jar:1.7.12">
+              <point x="20.125" y="-15.0" />
+              <point x="3055.911722883599" y="150.0" />
+              <point x="3092.036722883599" y="150.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-aop:jar:4.2.4.RELEASE" target="org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE/org.springframework:spring-beans:jar:4.2.4.RELEASE">
+              <point x="32.0" y="-15.0" />
+              <point x="2129.8036044973546" y="300.0" />
+              <point x="2461.786722883599" y="300.0" />
+              <point x="2461.786722883599" y="160.0" />
+              <point x="2443.79539517196" y="160.0" />
+              <point x="-13.5" y="15.0" />
+            </edge>
+            <edge source="org.slf4j:slf4j-log4j12:jar:1.6.6" target="org.slf4j:slf4j-api:jar:1.6.6">
+              <point x="26.0" y="-15.0" />
+              <point x="267.0" y="310.0" />
+              <point x="284.75" y="310.0" />
+              <point x="-19.25" y="15.0" />
+            </edge>
+            <edge source="com.ziyin:springdatajpa_day02:1.0-SNAPSHOT" target="org.springframework:spring-core:jar:4.2.4.RELEASE">
+              <point x="72.20000000000005" y="-15.0" />
+              <point x="1501.2054728835988" y="470.0" />
+              <point x="3526.7036044973547" y="470.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.ziyin:springdatajpa_day02:1.0-SNAPSHOT" target="org.springframework:spring-context-support:jar:4.2.4.RELEASE">
+              <point x="-72.20000000000005" y="-15.0" />
+              <point x="1356.8054728835987" y="470.0" />
+              <point x="84.5" y="470.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE" target="org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE/org.aspectj:aspectjrt:jar:1.8.6">
+              <point x="6.0499999999999545" y="-15.0" />
+              <point x="2839.5867228835987" y="270.0" />
+              <point x="2893.786722883599" y="270.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE" target="org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE/org.springframework:spring-aop:jar:4.1.7.RELEASE">
+              <point x="-30.25" y="-15.0" />
+              <point x="2803.286722883599" y="250.0" />
+              <point x="2542.286722883599" y="250.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE/org.springframework.data:spring-data-commons:jar:1.11.0.RELEASE" target="org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE/org.springframework.data:spring-data-commons:jar:1.11.0.RELEASE/org.springframework:spring-beans:jar:4.1.7.RELEASE">
+              <point x="-20.125" y="-15.0" />
+              <point x="3015.661722883599" y="150.0" />
+              <point x="2979.536722883599" y="150.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-validator:jar:5.2.1.Final" target="org.hibernate:hibernate-validator:jar:5.2.1.Final/javax.validation:validation-api:jar:1.1.0.Final">
+              <point x="-48.0" y="-15.0" />
+              <point x="487.62571924603435" y="310.0" />
+              <point x="418.0" y="310.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE/org.springframework.data:spring-data-commons:jar:1.11.0.RELEASE" target="org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE/org.springframework.data:spring-data-commons:jar:1.11.0.RELEASE/org.springframework:spring-core:jar:4.1.7.RELEASE">
+              <point x="-60.375" y="-15.0" />
+              <point x="2975.411722883599" y="160.0" />
+              <point x="2805.4382192460344" y="160.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-orm:jar:4.2.4.RELEASE" target="org.springframework:spring-orm:jar:4.2.4.RELEASE/org.springframework:spring-jdbc:jar:4.2.4.RELEASE">
+              <point x="-36.375" y="-15.0" />
+              <point x="2326.661722883599" y="290.0" />
+              <point x="2266.5714285714284" y="290.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE" target="org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.12">
+              <point x="54.450000000000045" y="-15.0" />
+              <point x="2887.986722883599" y="310.0" />
+              <point x="3340.786722883599" y="310.0" />
+              <point x="25.75" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-test:jar:4.2.4.RELEASE" target="org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE/org.springframework:spring-core:jar:4.2.4.RELEASE">
+              <point x="0.0" y="-15.0" />
+              <point x="2149.0714285714284" y="160.0" />
+              <point x="2243.1257192460344" y="160.0" />
+              <point x="-20.0" y="15.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-entitymanager:jar:5.0.7.Final" target="org.hibernate:hibernate-core:jar:5.0.7.Final">
+              <point x="-25.28571428571422" y="-15.0" />
+              <point x="1494.7510085978847" y="280.0" />
+              <point x="1395.758928571429" y="280.0" />
+              <point x="29.75" y="15.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE" target="org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE/org.springframework.data:spring-data-commons:jar:1.11.0.RELEASE">
+              <point x="18.15000000000009" y="-15.0" />
+              <point x="2851.686722883599" y="280.0" />
+              <point x="3035.786722883599" y="280.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:5.0.7.Final" target="org.hibernate:hibernate-core:jar:5.0.7.Final/dom4j:dom4j:jar:1.6.1">
+              <point x="-52.0625" y="-15.0" />
+              <point x="1313.946428571429" y="160.0" />
+              <point x="1074.821428571429" y="160.0" />
+              <point x="17.25" y="15.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-validator:jar:5.2.1.Final" target="org.hibernate:hibernate-validator:jar:5.2.1.Final/org.jboss.logging:jboss-logging:jar:3.2.1.Final">
+              <point x="48.0" y="-15.0" />
+              <point x="583.6257192460344" y="310.0" />
+              <point x="658.25" y="310.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-entitymanager:jar:5.0.7.Final" target="org.hibernate:hibernate-core:jar:5.0.7.Final/org.hibernate.javax.persistence:hibernate-jpa-2.1-api:jar:1.0.0.Final">
+              <point x="-50.57142857142844" y="-15.0" />
+              <point x="1469.4652943121705" y="290.0" />
+              <point x="1150.821428571429" y="290.0" />
+              <point x="-38.75" y="15.0" />
+            </edge>
+            <edge source="org.slf4j:slf4j-log4j12:jar:1.6.6" target="org.slf4j:slf4j-log4j12:jar:1.6.6/log4j:log4j:jar:1.2.17">
+              <point x="-26.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.ziyin:springdatajpa_day02:1.0-SNAPSHOT" target="org.slf4j:slf4j-log4j12:jar:1.6.6">
+              <point x="-64.59999999999991" y="-15.0" />
+              <point x="1364.405472883599" y="460.0" />
+              <point x="241.0" y="460.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:5.0.7.Final" target="org.hibernate:hibernate-core:jar:5.0.7.Final/org.jboss:jandex:jar:2.0.0.Final">
+              <point x="7.4375" y="-15.0" />
+              <point x="1373.446428571429" y="130.0" />
+              <point x="1401.071428571429" y="130.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.ziyin:springdatajpa_day02:1.0-SNAPSHOT" target="log4j:log4j:jar:1.2.12">
+              <point x="34.200000000000045" y="-15.0" />
+              <point x="1463.2054728835988" y="420.0" />
+              <point x="2576.824222883599" y="420.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-aop:jar:4.2.4.RELEASE" target="org.springframework:spring-aop:jar:4.2.4.RELEASE/aopalliance:aopalliance:jar:1.0">
+              <point x="-32.0" y="-15.0" />
+              <point x="2065.8036044973546" y="310.0" />
+              <point x="2031.571428571429" y="310.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-entitymanager:jar:5.0.7.Final" target="org.hibernate:hibernate-core:jar:5.0.7.Final/org.apache.geronimo.specs:geronimo-jta_1.1_spec:jar:1.1.1">
+              <point x="25.28571428571422" y="-15.0" />
+              <point x="1545.3224371693132" y="290.0" />
+              <point x="1678.071428571429" y="290.0" />
+              <point x="41.0" y="15.0" />
+            </edge>
+            <edge source="com.ziyin:springdatajpa_day02:1.0-SNAPSHOT" target="org.hibernate:hibernate-entitymanager:jar:5.0.7.Final">
+              <point x="3.7999999999999545" y="-15.0" />
+              <point x="1432.8054728835987" y="380.0" />
+              <point x="1520.036722883599" y="380.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-orm:jar:4.2.4.RELEASE" target="org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE/org.springframework:spring-beans:jar:4.2.4.RELEASE">
+              <point x="36.375" y="-15.0" />
+              <point x="2399.411722883599" y="310.0" />
+              <point x="2472.786722883599" y="310.0" />
+              <point x="2472.786722883599" y="160.0" />
+              <point x="2470.79539517196" y="160.0" />
+              <point x="13.5" y="15.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-entitymanager:jar:5.0.7.Final" target="org.hibernate:hibernate-core:jar:5.0.7.Final/org.javassist:javassist:jar:3.18.1-GA">
+              <point x="0.0" y="-15.0" />
+              <point x="1520.036722883599" y="310.0" />
+              <point x="1515.321428571429" y="310.0" />
+              <point x="19.75" y="15.0" />
+            </edge>
+            <edge source="com.ziyin:springdatajpa_day02:1.0-SNAPSHOT" target="org.springframework:spring-aop:jar:4.2.4.RELEASE">
+              <point x="11.400000000000091" y="-15.0" />
+              <point x="1440.405472883599" y="390.0" />
+              <point x="2097.8036044973546" y="390.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-aop:jar:4.2.4.RELEASE" target="org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE/org.springframework:spring-core:jar:4.2.4.RELEASE">
+              <point x="0.0" y="-15.0" />
+              <point x="2097.8036044973546" y="310.0" />
+              <point x="2090.571428571429" y="310.0" />
+              <point x="2090.571428571429" y="150.0" />
+              <point x="2223.1257192460344" y="150.0" />
+              <point x="-40.0" y="15.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:5.0.7.Final/dom4j:dom4j:jar:1.6.1" target="org.hibernate:hibernate-core:jar:5.0.7.Final/dom4j:dom4j:jar:1.6.1/xml-apis:xml-apis:jar:1.0.b2">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.glassfish.web:javax.el:jar:2.2.4" target="javax.el:javax.el-api:jar:2.2.4">
+              <point x="0.0" y="-15.0" />
+              <point x="-24.0" y="15.0" />
+            </edge>
+            <edge source="com.ziyin:springdatajpa_day02:1.0-SNAPSHOT" target="org.hibernate:hibernate-validator:jar:5.2.1.Final">
+              <point x="-49.399999999999864" y="-15.0" />
+              <point x="1379.6054728835988" y="440.0" />
+              <point x="535.6257192460344" y="440.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:5.0.7.Final/org.hibernate.common:hibernate-commons-annotations:jar:5.0.1.Final" target="org.hibernate:hibernate-core:jar:5.0.7.Final/org.jboss.logging:jboss-logging:jar:3.3.0.Final">
+              <point x="0.0" y="-15.0" />
+              <point x="1850.571428571429" y="60.0" />
+              <point x="1801.89260085979" y="60.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.ziyin:springdatajpa_day02:1.0-SNAPSHOT" target="org.springframework:spring-context:jar:4.2.4.RELEASE">
+              <point x="-11.399999999999864" y="-15.0" />
+              <point x="1417.6054728835988" y="390.0" />
+              <point x="1140.63914517196" y="390.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework:spring-orm:jar:4.2.4.RELEASE" target="org.springframework:spring-orm:jar:4.2.4.RELEASE/org.springframework:spring-tx:jar:4.2.4.RELEASE">
+              <point x="12.125" y="-15.0" />
+              <point x="2375.161722883599" y="290.0" />
+              <point x="2394.786722883599" y="290.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE" target="org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE/org.springframework:spring-beans:jar:4.2.4.RELEASE">
+              <point x="-42.34999999999991" y="-15.0" />
+              <point x="2791.186722883599" y="260.0" />
+              <point x="2483.786722883599" y="260.0" />
+              <point x="2483.786722883599" y="160.0" />
+              <point x="2497.79539517196" y="160.0" />
+              <point x="40.5" y="15.0" />
+            </edge>
+            <edge source="com.ziyin:springdatajpa_day02:1.0-SNAPSHOT" target="org.springframework:spring-beans:jar:4.2.4.RELEASE">
+              <point x="64.59999999999991" y="-15.0" />
+              <point x="1493.6054728835988" y="460.0" />
+              <point x="3194.561722883599" y="460.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.ziyin:springdatajpa_day02:1.0-SNAPSHOT" target="org.springframework:spring-test:jar:4.2.4.RELEASE">
+              <point x="19.0" y="-15.0" />
+              <point x="1448.005472883599" y="400.0" />
+              <point x="2169.8036044973546" y="400.0" />
+              <point x="2169.8036044973546" y="290.0" />
+              <point x="2149.0714285714284" y="290.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.ziyin:springdatajpa_day02:1.0-SNAPSHOT" target="org.springframework.data:spring-data-jpa:jar:1.9.0.RELEASE">
+              <point x="49.40000000000009" y="-15.0" />
+              <point x="1478.405472883599" y="440.0" />
+              <point x="2833.536722883599" y="440.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.205778269283937" x="552.0" y="123.0" />
+          <SelectedNodes>
+            <node>com.ziyin:springdatajpa_day02:1.0-SNAPSHOT</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springdatajpa_day02/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="53" column="65" selection-start-line="53" selection-start-column="59" selection-end-line="53" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.0.5.RELEASE/spring-data-commons-2.0.5.RELEASE.jar!/org/springframework/data/repository/CrudRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/software/devtool/jdk8/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="110" column="25" lean-forward="true" selection-start-line="110" selection-start-column="25" selection-end-line="110" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/5.0.5.RELEASE/spring-tx-5.0.5.RELEASE.jar!/org/springframework/transaction/support/TransactionSynchronizationManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="213" selection-start-line="213" selection-end-line="213" />
+          <folding>
+            <element signature="e#8529#8530#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/software/devtool/jdk8/src.zip!/java/lang/reflect/InvocationTargetException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/software/devtool/jdk8/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="430" selection-start-line="430" selection-end-line="430" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springdatajpa_day02/src/main/java/com/ziyin/bo/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-819">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.0.5.RELEASE/spring-aop-5.0.5.RELEASE.jar!/org/springframework/aop/framework/JdkDynamicAopProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="142" selection-start-line="142" selection-end-line="142" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.0.5.RELEASE/spring-aop-5.0.5.RELEASE.jar!/org/springframework/aop/framework/ReflectiveMethodInvocation.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.0.5.RELEASE/spring-data-commons-2.0.5.RELEASE.jar!/org/springframework/data/repository/core/support/SurroundingTransactionDetectorMethodInterceptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springdatajpa_day02/src/test/java/com/ziyin/jpa/CustomerDaoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="135" column="5" selection-start-line="135" selection-start-column="5" selection-end-line="135" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springddatajpa_day03_speci/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springdatajpa_day02/src/test/java/com/ziyin/jpa/JpqlTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="19" selection-start-line="19" selection-end-line="20" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springddatajpa_day03_speci/src/main/java/com/ziyin/dao/CustomerDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.0.5.RELEASE/spring-data-commons-2.0.5.RELEASE.jar!/org/springframework/data/domain/PageRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+          <folding>
+            <element signature="e#485#486#0" expanded="true" />
+            <element signature="e#534#535#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springddatajpa_day03_speci/src/main/java/com/ziyin/bo/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="28" column="27" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springdatajpa_day02/src/main/java/com/ziyin/dao/CustomerDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="18" column="92" selection-start-line="18" selection-start-column="68" selection-end-line="18" selection-end-column="92" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.0.5.RELEASE/spring-data-commons-2.0.5.RELEASE-sources.jar!/org/springframework/data/domain/PageRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1027">
+          <caret line="82" column="30" selection-start-line="82" selection-start-column="30" selection-end-line="82" selection-end-column="30" />
+          <folding>
+            <element signature="e#2612#2613#0" expanded="true" />
+            <element signature="e#2657#2658#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.0.5.RELEASE/spring-data-commons-2.0.5.RELEASE-sources.jar!/org/springframework/data/domain/Page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springdatajpa_day02/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="12" column="11" selection-start-line="10" selection-start-column="3" selection-end-line="151" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springddatajpa_day03_speci/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="150" column="19" selection-start-line="150" selection-start-column="19" selection-end-line="150" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final.jar!/javax/persistence/FetchType.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springdata_one2many/src/test/java/OneToManyTest.java" />
+    <entry file="file://$PROJECT_DIR$/JPA/src/test/java/com/ziyin/jpa/test/JPATest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springdata_one2many/src/main/java/com/ziyin/dao/CustomerDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/5.0.5.RELEASE/spring-test-5.0.5.RELEASE.jar!/org/springframework/test/annotation/Rollback.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springdata_one2many/src/main/java/com/ziyin/dao/LinkManDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springdata_one2many/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="150" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springdatajpa_day03_many2many/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="151" column="19" selection-start-line="151" selection-start-column="19" selection-end-line="151" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springdatajpa_day03_many2many/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-858" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springddatajpa_day03_speci/src/test/java/SpecTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-end-line="22" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springdatajpa_day03_many2many/src/main/java/com/ziyin/dao/RoleDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springdatajpa_day03_many2many/src/main/java/com/ziyin/bo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="36" column="22" lean-forward="true" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+          <folding>
+            <element signature="e#1834#1835#0" expanded="true" />
+            <element signature="e#1862#1863#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springdatajpa_day03_many2many/src/main/java/com/ziyin/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springdatajpa_day03_many2many/src/main/java/com/ziyin/bo/Role.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-88">
+          <caret line="19" column="33" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springdatajpa_day03_many2many/src/test/java/Many2ManyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="94" lean-forward="true" selection-start-line="94" selection-end-line="94" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/2.0.5.RELEASE/spring-data-jpa-2.0.5.RELEASE.jar!/org/springframework/data/jpa/repository/JpaRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springdata_one2many/src/test/java/One2ManyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="112" column="36" selection-start-line="112" selection-start-column="36" selection-end-line="112" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/software/devtool/jdk8/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="58" column="19" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springdata_one2many/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="56" column="20" selection-start-line="56" selection-start-column="20" selection-end-line="56" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springdata_one2many/src/main/java/com/ziyin/bo/LinkMan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="54" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springdata_one2many/src/test/java/ObjectQueryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="57" column="20" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springdata_one2many/src/main/java/com/ziyin/bo/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1007">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/2.0.5.RELEASE/spring-data-jpa-2.0.5.RELEASE.jar!/org/springframework/data/jpa/repository/support/SimpleJpaRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-391">
+          <caret line="160" column="13" selection-start-line="160" selection-start-column="13" selection-end-line="160" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring (springdatajpa_day02)|Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>springdatajpa_day02</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
